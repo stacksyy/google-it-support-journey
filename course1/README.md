@@ -33,3 +33,13 @@ https://coursera.org/verify/X9CZUJV01QVD
 
 ## Reflection
 This course strengthened my understanding of the core concepts behind IT support. It showed me how hardware, operating systems, networking, and customer support work together, and gave me a solid foundation for continuing toward my goal of becoming a cybersecurity professional.
+
+## Certificate
+
+> The certificate image will be displayed here after it is uploaded.
+
+![Google IT Support Technical Support Fundamentals Certificate](google-it-support-course-1-certificate.png)
+
+You can also download the PDF version here:
+
+[📄 Course Certificate (PDF)](google-it-support-course-1-certificate.pdf)
